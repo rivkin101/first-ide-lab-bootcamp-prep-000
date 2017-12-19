@@ -1,4 +1,1 @@
-"My name is Alanna!"
-ls
-pwd
-learn 
+"H
